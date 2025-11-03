@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <title>Any-Split Lift Logger</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+  <h1>Any-Split Lift Logger</h1>
+
+  <section id="setup">
+    <h2>1. Create your split</h2>
+    <textarea id="splitInput" placeholder="Example:
+Push – Bench, OHP, Dip, Cable fly
+Pull – Deadlift, Row, Pull-up, Curl
+Legs – Squat, RDL, Leg press, Calf raise"></textarea>
+    <button id="buildSplitBtn">Build split</button>
+  </section>
+
+  <section id="logger" hidden>
+    <h2>2. Log weights & reps</h2>
+    <div id="dayPicker"></div>
+    <div id="exerciseList"></div>
+    <button id="saveSessionBtn">Save session</button>
+  </section>
+
+  <section id="history">
+    <h2>3. History (auto-saved in browser)</h2>
+    <button id="exportBtn">Export CSV</button>
+    <button id="clearBtn">Clear all data</button>
+    <div id="historyTable"></div>
+  </section>
+
+  <script src="app.js"></script>
+</body>
+</html>
