@@ -1,0 +1,8 @@
+body{font-family:system-ui, sans-serif; margin:2rem; background:#f7f7f7;}
+textarea{width:100%; height:120px; font-size:1rem;}
+button{padding:.5rem 1rem; margin:.25rem; cursor:pointer;}
+.day-tab{display:inline-block; padding:.4rem .8rem; margin:0 .2rem;
+        background:#ddd; border-radius:4px; cursor:pointer;}
+.day-tab.active{background:#007bff; color:#fff;}
+.set-row{display:flex; gap:.5rem; align-items:center; margin:.25rem 0;}
+.set-row input{width:80px;}
