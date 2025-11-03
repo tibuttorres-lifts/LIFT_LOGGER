@@ -1,0 +1,61 @@
+<!-- 5-Day Full-Body S-Tier – Horizontal Layout -->
+<style>
+  table.routine{width:100%;border-collapse:collapse;font-family:Arial,Helvetica,sans-serif;font-size:13px;margin-bottom:2rem}
+  table.routine th,table.routine td{border:1px solid #ccc;padding:6px 4px;text-align:center}
+  table.routine th{background:#f2f2f2;font-weight:600}
+  .ex{text-align:left;font-weight:500}
+  .sets{color:#0059b3}
+  @media(max-width:700px){table.routine{font-size:11px}th,td{padding:4px 2px}}
+</style>
+
+<!-- WEEK 1 (example) – copy for Weeks 2-4, change rep targets or loads -->
+<table class="routine">
+  <caption style="font-weight:600;margin-bottom:.5rem">Week 1 – 2 sets @ RIR 2</caption>
+  <thead>
+    <tr>
+      <th style="width:16%">Exercise</th>
+      <th>Mon D1</th>
+      <th>Tue D2</th>
+      <th>Wed D3</th>
+      <th>Thu D4</th>
+      <th>Fri D5</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="ex">Squat variant</td><td class="sets">2×6-8</td><td>-</td><td>2×6-8</td><td>-</td><td>2×8-10</td></tr>
+    <tr><td class="ex">Hinge (RDL / T-Bar)</td><td>-</td><td>2×6-8</td><td>-</td><td>2×6-8</td><td>-</td></tr>
+    <tr><td class="ex">Horizontal Push</td><td>2×6-8</td><td>-</td><td>2×8-10</td><td>-</td><td>2×8-10</td></tr>
+    <tr><td class="ex">Horizontal Pull</td><td>-</td><td>2×8-10</td><td>-</td><td>2×6-8</td><td>-</td></tr>
+    <tr><td class="ex">Vertical Push</td><td>-</td><td>2×6-8</td><td>-</td><td>2×8-10</td><td>-</td></tr>
+    <tr><td class="ex">Vertical Pull</td><td>2×AMRAP ≥8</td><td>-</td><td>2×8-10</td><td>-</td><td>2×AMRAP</td></tr>
+    <tr><td class="ex">Quad Acc (leg-press / BSS)</td><td>-</td><td>2×8-10</td><td>-</td><td>2×8-10 ea</td><td>-</td></tr>
+    <tr><td class="ex">Glute/Ham (hip-thrust / Nordic)</td><td>2×8-10</td><td>-</td><td>2×6-8</td><td>-</td><td>2×8-10</td></tr>
+    <tr><td class="ex">Triceps</td><td>-</td><td>1×10-12</td><td>-</td><td>-</td><td>1×10-12</td></tr>
+    <tr><td class="ex">Biceps</td><td>-</td><td>-</td><td>1×10-12</td><td>-</td><td>1×10-12</td></tr>
+    <tr><td class="ex">Lateral Raise</td><td>1×12-15</td><td>1×12-15</td><td>1×12-15</td><td>1×12-15</td><td>1×12-15</td></tr>
+  </tbody>
+</table>
+
+<!-- Deload Week (Week 5) -->
+<table class="routine">
+  <caption style="font-weight:600;margin-bottom:.5rem">Week 5 – Deload (60 % load, RIR 4)</caption>
+  <thead>
+    <tr>
+      <th style="width:16%">Exercise</th>
+      <th>Mon D1</th>
+      <th>Tue D2</th>
+      <th>Wed D3</th>
+      <th>Thu D4</th>
+      <th>Fri D5</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="ex">Main lifts</td><td class="sets">2×6</td><td>2×6</td><td>2×6</td><td>2×6</td><td>2×6</td></tr>
+    <tr><td class="ex">Accessories</td><td class="sets">1×10</td><td>1×10</td><td>1×10</td><td>1×10</td><td>1×10</td></tr>
+  </tbody>
+</table>
+
+<!-- Progression note -->
+<p style="font-size:12px;color:#555">
+  <strong>Progression:</strong> Add reps inside range first; when top reps hit on all sets, increase load 2-2.5 kg/5 lb next session. Repeat Weeks 2-4 cycle after deload.
+</p>
